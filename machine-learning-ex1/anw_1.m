@@ -1,0 +1,1 @@
+data = load('extdata1.txt');x = data(:,1);
