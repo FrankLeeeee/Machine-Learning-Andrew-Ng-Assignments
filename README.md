@@ -1,2 +1,2 @@
 # Machine-Learning-Andrew-Ng-Assignments
-Solutions to Andrew Ng's Coursera course assignments on Machine Learning 
+Solutions to Coursera assignments of Andrew Ng's Machine Learning Course
